@@ -1,17 +1,17 @@
 # Homework I
-    stos códigos corresponden a las consignas del homework 1 de la materia Paradigmas de la Programación. El archivo de las consignas es `I102_Homework1.pdf`.
+Estos códigos corresponden a las consignas del homework 1 de la materia Paradigmas de la Programación. El archivo de las consignas es `I102_Homework1.pdf`.
 
-    Cada ejercicio está implementado en archivos `.cpp`, siguiendo las especificaciones indicadas en el enunciado. Se incluyen instrucciones de compilación para cada uno.
+Cada ejercicio está implementado en archivos `.cpp`, siguiendo las especificaciones indicadas en el enunciado. Se incluyen instrucciones de compilación para cada uno.
 
 ## Ejercicio I
-    Este programa genera una matriz cuadrada de tamaño `n x n`, donde `n` es un número entero positivo mayor a 1. La matriz se llena con valores secuenciales comenzando desde `1`. Luego, se imprimen sus valores en orden normal y en orden inverso utilizando un solo ciclo.
+Este programa genera una matriz cuadrada de tamaño `n x n`, donde `n` es un número entero positivo mayor a 1. La matriz se llena con valores secuenciales comenzando desde `1`. Luego, se imprimen sus valores en orden normal y en orden inverso utilizando un solo ciclo.
 
 * **Compilación y ejecución**
     g++ EjercicioI.cpp -Wall -g -o ejerI
     ./ejerI
 
 ## Ejericio II
-    Este ejercicio implementa un sistema de registro de eventos en un archivo de log.
+Este ejercicio implementa un sistema de registro de eventos en un archivo de log.
 Consta de dos partes:
 
 * Parte a) Se crea un sistema de log básico que almacena mensajes con distintos niveles de severidad (DEBUG, INFO, WARNING, ERROR, CRITICAL).
@@ -37,7 +37,7 @@ Archivos
     ./ejerIIb
 
 ## Ejericio III
-    Este programa implementa una lista enlazada utilizando smart pointers (shared_ptr) para la gestión automática de memoria.
+Este programa implementa una lista enlazada utilizando smart pointers (shared_ptr) para la gestión automática de memoria.
 Incluye las siguientes operaciones:
 
 * create_node(valor): Crea un nuevo nodo con el valor especificado.
@@ -57,7 +57,7 @@ Incluye las siguientes operaciones:
     ./ejerIII
 
 ## Ejericio IV
-    Este ejercicio implementa una comparación de cadenas de texto utilizando recursión, y mide su tiempo de ejecución en diferentes escenarios.
+Este ejercicio implementa una comparación de cadenas de texto utilizando recursión, y mide su tiempo de ejecución en diferentes escenarios.
 Se divide en tres partes:
 
 * Parte a) Implementa una función recursiva para comparar dos cadenas de caracteres.
