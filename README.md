@@ -7,6 +7,7 @@ Cada ejercicio está implementado en archivos `.cpp`, siguiendo las especificaci
 Este programa genera una matriz cuadrada de tamaño `n x n`, donde `n` es un número entero positivo mayor a 1. La matriz se llena con valores secuenciales comenzando desde `1`. Luego, se imprimen sus valores en orden normal y en orden inverso utilizando un solo ciclo.
 
 **Compilación y ejecución**
+
     g++ EjercicioI.cpp -Wall -g -o ejerI
     ./ejerI
 
@@ -30,6 +31,7 @@ Archivos
 * **_ejercicio2b.cpp:_** Implementación de la parte b.
 
 **Compilación y ejecución**
+
     g++ EjercicioIIa.cpp -Wall -g -o ejerIIa
     ./ejerIIa
 
@@ -53,6 +55,7 @@ Incluye las siguientes operaciones:
 * print_list(head): Imprime la lista enlazada.
 
 **Compilación y ejecución**
+
     g++ EjercicioIII.cpp -Wall -g -o ejerIII
     ./ejerIII
 
@@ -74,6 +77,7 @@ Archivos
 * ***_ejercicio4c.cpp:_*** Implementación de la parte c.
 
 **Compilación y ejecución**
+
     g++ EjercicioIVa.cpp -Wall -g -o ejerIVa
     ./ejerIVa
 
